@@ -210,3 +210,4 @@ venv/
 __pycache__/
 *.pyc
 data/chroma_db/  #Ignores the ChromaDB database files
+.DS_Store  # macOS file that stores custom attributes of a folder, such as the position of icons or the choice of a background image.
