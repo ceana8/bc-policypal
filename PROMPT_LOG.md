@@ -1,7 +1,7 @@
 # Prompt Log - Lab 7.3 Retrieval Tuning
 
 Date: 2026-05-25
-Project: bc-policypal (github colplot)
+Project: bc-policypal 
 Scope: Lab 7.3 tuning workflow
 
 ## 1. Goal Prompt
