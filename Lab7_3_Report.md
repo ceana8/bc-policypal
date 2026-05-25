@@ -97,7 +97,7 @@ New tuned files:
 
 Query/eval defaults aligned to best settings (chunk 400 index, k=4) in:
 - `query_tuned.py`
-- `eval_v3.py`
+- `eval_tuned.py`
 
 ---
 
